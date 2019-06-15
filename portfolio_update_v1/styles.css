@@ -26,7 +26,7 @@ a:hover {
 
 /* added by Royer Adames */
 #resize{
-  border-image-width: 50%, 50%,50%,50%;
+  border-image-width: 50% 50% 50% 50%;
   margin-top: 50px;
   width: 450px;
   height: 150px;
